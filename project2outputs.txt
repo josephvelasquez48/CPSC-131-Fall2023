@@ -1,0 +1,88 @@
+Browser tab list = 
+| Google x|-->
+
+Switch to previous tab = 
+No previous Tab
+Switch to Next tab = 
+No next Tab
+Bookmark added: YouTube
+Browser tab list = 
+| Google x|-->| YouTube x|-->
+
+Bookmark added: GeeksForGeeks
+Bookmark added: LinkedIn
+Bookmark added: Kaggle
+Browser tab list = 
+| Google x|-->| YouTube x|-->| GeeksForGeeks x|-->| ChatGPT x|-->| LinkedIn x|-->| Github x|-->| Kaggle x|-->
+
+Total memory consumption = 1084.23MB
+Bookmarks:
+YouTube(https://www.youtube.com)
+GeeksForGeeks(https://www.geeksforgeeks.com)
+LinkedIn(https://linkedin.com)
+Kaggle(https://kaggle.com)
+Browser tab list = 
+| Kaggle x|-->| Google x|-->| YouTube x|-->| GeeksForGeeks x|-->| ChatGPT x|-->| LinkedIn x|-->| Github x|-->
+
+Tab closed = LinkedIn with memory size = 410
+Browser tab list = 
+| Kaggle x|-->| Google x|-->| YouTube x|-->| GeeksForGeeks x|-->| ChatGPT x|-->| Github x|-->
+
+Switch to next tab = 
+No next Tab
+Switch to previous tab = 
+https://chat.openai.com
+ChatGPT
+129
+Tab closed = ChatGPT with memory size = 129
+Browser tab list = 
+| Kaggle x|-->| Google x|-->| YouTube x|-->| GeeksForGeeks x|-->| Github x|-->
+
+Switch to previous tab = 
+https://www.geeksforgeeks.com
+GeeksForGeeks
+45.78
+Tab closed = GeeksForGeeks with memory size = 45.78
+Browser tab list = 
+| Kaggle x|-->| Google x|-->| YouTube x|-->| Github x|-->
+
+Bookmarks:
+YouTube(https://www.youtube.com)
+GeeksForGeeks(https://www.geeksforgeeks.com)
+LinkedIn(https://linkedin.com)
+Kaggle(https://kaggle.com)
+Total Memory Consumption = 499.45MB
+Tab closed = Kaggle
+Browser tab list = 
+| Google x|-->| YouTube x|-->| Github x|-->
+
+Browser tab list = 
+| Google x|-->| YouTube x|-->| Github x|-->| Google Docs x|-->
+
+Switch to previous tab = 
+https://github.com
+Github
+110
+Switch to previous tab = 
+https://www.youtube.com
+YouTube
+56
+Switch to previous tab = 
+https://www.google.com
+Google
+23.45
+Bookmark added: Google
+Bookmarks:
+YouTube(https://www.youtube.com)
+GeeksForGeeks(https://www.geeksforgeeks.com)
+LinkedIn(https://linkedin.com)
+Kaggle(https://kaggle.com)
+Google(https://www.google.com)
+Total Memory Consumption = 291.79MB
+Tab closed = Github with memory size = 110
+Browser tab list = 
+| Google x|-->| YouTube x|-->| Google Docs x|-->
+
+
+RUN SUCCESSFUL (total time: 691ms)
+
